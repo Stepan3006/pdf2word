@@ -1,2 +1,12 @@
-# pdf2word
-pdf to word converter with tkinter
+## Описание проекта
+
+Конвертер для перевода pdf -> word c использованием tkinter
+
+## Технологии
+ 
+ tkinter
+ python
+
+## Об авторе
+
+Калинин Степан
